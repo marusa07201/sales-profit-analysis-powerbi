@@ -66,4 +66,7 @@ Superstore dataset including:
 
 ---
 
+## 📊 Dashboard Preview
+
+[View Sales & Profit Dashboard (PDF)](Super_Store_sales_profit_analysis.pdf)
 
