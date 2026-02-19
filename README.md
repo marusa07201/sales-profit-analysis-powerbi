@@ -71,3 +71,11 @@ Superstore dataset including:
 
 [View Sales & Profit Dashboard (PDF)](Super_Store_sales_profit_analysis.pdf)
 
+---
+## Key Insights
+
+- Profitability significantly varies across regions, with some high-revenue markets demonstrating below-average profit margins.
+- Orders with higher discount levels tend to generate lower profit, despite contributing positively to total sales volume.
+- Certain product categories consistently maintain higher profit margins regardless of discount level.
+- Shipping cost varies across ship modes and impacts overall profitability in low-margin segments.
+- Monthly performance analysis indicates seasonal fluctuations in both sales and profit across regions.
