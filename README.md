@@ -79,3 +79,16 @@ Superstore dataset including:
 - Certain product categories consistently maintain higher profit margins regardless of discount level.
 - Shipping cost varies across ship modes and impacts overall profitability in low-margin segments.
 - Monthly performance analysis indicates seasonal fluctuations in both sales and profit across regions.
+
+  ---
+  
+  ## Tools & Technologies
+
+- Power BI
+- DAX
+- Data Modeling
+- Data Cleaning
+- Time Intelligence (YoY Analysis)
+- Dashboard Design
+- Business Performance Analysis
+
