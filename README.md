@@ -63,3 +63,9 @@ Superstore dataset including:
 - Optimize shipping strategies
 - Reevaluate pricing in low-margin regions
 - Focus on high-performing product categories
+
+---
+## 📊 Dashboard Preview
+
+[View Sales & Profit Dashboard (PDF)](Super_Store_sales_profit_analysis.pdf)
+
