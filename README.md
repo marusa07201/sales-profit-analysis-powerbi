@@ -65,7 +65,5 @@ Superstore dataset including:
 - Focus on high-performing product categories
 
 ---
-## 📊 Dashboard Preview
 
-[View Sales & Profit Dashboard (PDF)](Super_Store_sales_profit_analysis.pdf)
 
